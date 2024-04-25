@@ -15,8 +15,9 @@
 ### Обо мне:  
 * Учусь на четвёртом курсе технической специальности  
 * Свою дипломную работу посвятила анализу данных на MATLAB
-* Закончила курс karpov.courses по специальности "Аналитик данных"  
-* Люблю смотреть фильмы и читать книги :books: на английском
+* Закончила курс karpov.courses по специальности "Аналитик данных"
+* Закончила курс "Цифровой анализ медицинских данных" (язык R)
+* В свободное время люблю смотреть фильмы и читать книги :books: на английском
   
  ---
 
@@ -32,4 +33,18 @@
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" title="Git" alt="Git" width="70" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" width="40"/>&nbsp;
+  <img src="https://i-spark.nl/wp-content/uploads/2020/03/62e14245eb4d9a9dc054c181.png" width=70/>&nbsp
+
+---
+
+### Мои проекты:
+Здесь собраны проекты, которые я выполнила во время обучения на курсах "Аналитик данных":  
+|Название проекта| Описание проекта| Инструменты|
+|----------------|-----------------|-----|
+|[Анализ покупок в Интернет-магазине](https://github.com/DimDolino/Find_the_Thief)|EDA-анализ, анализ активности пользователей, когортный анализ, RFM-сегментация.|**Pandas**, **Numpy**, **Seaborn** |
+|[A/B-тестирование и расчёт продуктовых метрик](https://github.com/DimDolino/Find_the_Thief)|A/B-тестирование нового платёжного механизма, расчёт ARPU, ARPAU, CR, функция обновления исходных данных и функция визуализации метрик|**Pandas**, **Numpy**, **SQL**, **Seaborn** |
+|[Анализ деятельности службы поддержки сервиса бронирования билетов](https://public.tableau.com/app/profile/polina.saharova/viz/Support_Service_Tickets/Dashboard1?publish=yes)|Сбор требований заказчика, построение визуализаций в Tableaux|**Tableaux**|
+
+
+
