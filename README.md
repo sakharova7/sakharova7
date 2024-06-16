@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Меня зовут Полина. 
+<h1 align="center">Привет! Меня зовут Полина, я аналитик данных. 
 <div id="header" align="center">
   <img src="https://99px.ru/sstorage/86/2018/09/image_862009181717296511862.gif" width="200"/>
 </div>
