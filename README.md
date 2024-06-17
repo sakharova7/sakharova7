@@ -47,6 +47,7 @@
 |[Анализ покупок в Интернет-магазине](https://github.com/sakharova7/project_e-commerce)|EDA-анализ, анализ активности пользователей, когортный анализ, RFM-сегментация.|**Pandas**, **Numpy**, **Seaborn** |
 |[A/B-тестирование и расчёт продуктовых метрик](https://github.com/sakharova7/project-a-b-test-and-product-metrics)|A/B-тестирование нового платёжного механизма, расчёт ARPU, ARPAU, CR, функция обновления исходных данных и функция визуализации метрик|**Pandas**, **Numpy**, **SQL**, **Seaborn** |
 |[Анализ деятельности службы поддержки сервиса бронирования билетов](https://public.tableau.com/app/profile/polina.saharova/viz/Support_Service_Tickets/Dashboard1?publish=yes)|Сбор требований заказчика, построение визуализаций в Tableaux|**Tableaux**|
+|[Исследование характеристик супермаркета с помощью RStudio](https://public.tableau.com/app/profile/polina.saharova/viz/Support_Service_Tickets/Dashboard1?publish=yes)|Предобработка данных, поиск зависимостей между признаками, дисперсионный анализ различий между супермаркетами разных категорий, построение регрессионных моделей для предсказания площади магазина и оценка  эффективности моделей|**ggplot**, **tidyr**, **psych**, **car**, **lmtest**|
 
 
 
