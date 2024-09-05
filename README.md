@@ -6,7 +6,7 @@
 
  
 ### Обо мне:  
-* Закончила бакалавриат в техническом университете (2024 г. - год выпуска). Получила уверенную базу знаний по математической статистике, методам обработки и анализа данных, а также программированию на Python и R.  
+* Закончила бакалавриат в техническом университете (2024 г. - год выпуска). Получила уверенную базу знаний по математической статистике, методам обработки и анализа данных, а также программированию на Python и R. В настоящее время обучаюсь в магистратуре на направлении "Информатика и вычислительная техника".    
 * Свою дипломную работу посвятила анализу данных на MATLAB. В дипломном проекте я реализовала полный инструментарий аналитика данных: обработала медицинские данные пациентов, рассчитала основные показатели, провела сравнительный и дискриминантный анализ и визуализировала результаты.
 * Закончила курс karpov.courses по специальности "Аналитик данных". Овладела библиотеками для анализа на языке Python, освоила SQL, научилась работать с Git, AirFlow, Tableaux.
 * Закончила курс "Цифровой анализ медицинских данных" (язык R). Углубила знания по статистике, научилась предобрабатывать данные, искать зависимости и строить визуализации в RStudio.
@@ -21,9 +21,11 @@
 </div>  
 <div align="center">
 почта: polinka6777@gmail.com
+</div> 
   
  --- 
  ### <img src="https://img.freepik.com/premium-vector/hummer-icon-logo-vector-illustration-design_598213-6172.jpg?size=626&ext=jpg" width=40> Навыки и инструменты:
+ 
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40">&nbsp;
@@ -36,7 +38,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" title="Git" alt="Git" width="70" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" width="40"/>&nbsp;
-  <img src="https://i-spark.nl/wp-content/uploads/2020/03/62e14245eb4d9a9dc054c181.png" width=70/>&nbsp
+  <img src="https://i-spark.nl/wp-content/uploads/2020/03/62e14245eb4d9a9dc054c181.png" width=70/>&nbsp;
+  <img src="https://png.pngtree.com/element_our/md/20180627/md_5b33460f04516.jpg" width=60/>&nbsp;
+  <img src="https://formadoresit.es/wp-content/uploads/2022/02/logoPowerQuery.png" width=130/>&nbsp;
+  <img src="https://thesmartmethod.com/wp-content/uploads/2020/09/power-pivot.png" width=130/>&nbsp;
+  <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" width=130/>&nbsp;
 
 ---
 
@@ -49,5 +55,15 @@
 |[Анализ деятельности службы поддержки сервиса бронирования билетов](https://public.tableau.com/app/profile/polina.saharova/viz/Support_Service_Tickets/Dashboard1?publish=yes)|Сбор требований заказчика, построение визуализаций в Tableaux|**Tableaux**|
 |[Исследование характеристик супермаркета с помощью RStudio](https://github.com/sakharova7/Supermarket-store-branches-sales-analysis)|Предобработка данных, поиск зависимостей между признаками, дисперсионный анализ различий между супермаркетами разных категорий, построение регрессионных моделей для предсказания площади магазина и оценка  эффективности моделей|**ggplot**, **tidyr**, **psych**, **car**, **lmtest**|
 
-
+---
+  
+### Пройденные курсы:  
+Регулярно прохожу курсы на платформе Stepik.org для углубления знаний и расширения компетенций.  
+1. Анализ данных в R.  
+2. Основы статистики.  
+3. Интерактивный тренажер по SQL.  
+4. Excel: от новичка до уверенного бизнес-пользователя.  
+5. Excel: основное для работы с массивами и базами данных.  
+6. Excel Power Query и Pivot (+BI): с 0 до бизнес-пользователя.  
+7. Advanced Excel: поиск решений, аналитика и прогнозирование.  
 
